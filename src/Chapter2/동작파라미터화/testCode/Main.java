@@ -35,8 +35,8 @@ public class Main {
             }
         });
 
-        List<Apple> resultApples2 = filterApples(appleInventory, (Apple apple) ->
-                Color.GREEN.equals(apple.getColor()));
+
+
 
 
     }
